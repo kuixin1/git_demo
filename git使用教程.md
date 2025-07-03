@@ -9,3 +9,4 @@ git config --global user.email "2229697964@qq.com"
 如果忘记邮箱在github上点用户头像，setting，emials就有了
 
 maliu提交了两次
+my
